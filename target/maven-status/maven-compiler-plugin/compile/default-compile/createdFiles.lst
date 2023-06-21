@@ -1,0 +1,6 @@
+com\moderneinstein\core\algorithms\App.class
+com\moderneinstein\core\algorithms\Filter.class
+com\moderneinstein\core\algorithms\Runtime.class
+com\moderneinstein\core\algorithms\Validator.class
+com\moderneinstein\core\algorithms\Extensions.class
+com\moderneinstein\core\algorithms\Sudoku.class
